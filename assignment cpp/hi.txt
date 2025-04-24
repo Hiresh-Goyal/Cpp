@@ -1,0 +1,3 @@
+This is just a text file to open in the 36,37,38th question
+this is the 2nd line
+all the above mentioned questions are related to file handling
