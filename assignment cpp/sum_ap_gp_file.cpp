@@ -6,12 +6,12 @@ int main()
 {
     double a,d,sum =0;
     int choice,n;
-    cout << "Enter the value of a \n";
-    cin >> a;
     ofstream fout;
     fout.open("sum.txt");
     cout<<"Enter 1 for AP\nEnter 2 for GP\n";
     cin >> choice;
+    cout << "Enter the value of a \n";
+    cin >> a;
     switch(choice)
     {
         case 1:
