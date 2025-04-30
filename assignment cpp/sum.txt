@@ -1,0 +1,2 @@
+The series is as follows :-
+3 + 6 + 12 + 24 + 48 + 96 + 192 + 384 = 765
